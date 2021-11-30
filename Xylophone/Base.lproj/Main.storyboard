@@ -32,7 +32,7 @@
                                                     <color key="titleShadowColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="keyPressedC:" destination="BYZ-38-t0r" eventType="touchUpInside" id="wZk-L4-5uM"/>
+                                                    <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="PTm-aw-4CA"/>
                                                 </connections>
                                             </button>
                                         </subviews>
@@ -56,7 +56,7 @@
                                                     <color key="titleShadowColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="keyPressedD:" destination="BYZ-38-t0r" eventType="touchUpInside" id="gFT-dV-y4k"/>
+                                                    <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="TmL-ue-vFn"/>
                                                 </connections>
                                             </button>
                                         </subviews>
@@ -80,7 +80,7 @@
                                                     <color key="titleShadowColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="keyPressedE:" destination="BYZ-38-t0r" eventType="touchUpInside" id="U8E-cj-Xf1"/>
+                                                    <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="abf-Ze-8nM"/>
                                                 </connections>
                                             </button>
                                         </subviews>
@@ -104,7 +104,7 @@
                                                     <color key="titleShadowColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="keyPressedF:" destination="BYZ-38-t0r" eventType="touchUpInside" id="hnN-eM-K4B"/>
+                                                    <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="q8K-sJ-9yA"/>
                                                 </connections>
                                             </button>
                                         </subviews>
@@ -128,7 +128,7 @@
                                                     <color key="titleShadowColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="keyPressedG:" destination="BYZ-38-t0r" eventType="touchUpInside" id="5ch-EX-cm6"/>
+                                                    <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="aaQ-KU-R9n"/>
                                                 </connections>
                                             </button>
                                         </subviews>
@@ -152,7 +152,7 @@
                                                     <color key="titleShadowColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="keyPressedA:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Qbq-fr-9Zz"/>
+                                                    <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="9Qt-zM-hgO"/>
                                                 </connections>
                                             </button>
                                         </subviews>
@@ -176,7 +176,7 @@
                                                     <color key="titleShadowColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="keyPressedB:" destination="BYZ-38-t0r" eventType="touchUpInside" id="iP4-BX-ULe"/>
+                                                    <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="6AH-GT-BgE"/>
                                                 </connections>
                                             </button>
                                         </subviews>
